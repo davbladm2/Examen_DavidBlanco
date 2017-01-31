@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Examen_DavidBlanco</string>
+    <string name="menuPrincipal">MENU PRINCIPAL</string>
+    <string name="tiempo">EL TIEMPO</string>
+    <string name="atomicos">DATOS ATOMICOS</string>
+    <string name="multimedia">MULTIMEDIA</string>
+    <string name="exit">EXIT</string>
+    <string name="escoger">Escoge una de las siguientes localidades:</string>
+    <string name="bilbo">BILBO-BILBAO</string>
+    <string name="vitoria">VITORIA-GASTEIZ</string>
+    <string name="donosti">DONOSTIA-SAN SEBASTIAN</string>
+    <string name="tiempoActual">Tiempo actual en:</string>
+    <string name="volver">VOLVER</string>
+    <string name="introduce">Introduce nombvre de elemento quimico:</string>
+    <string name="informacion">INFORMACIÓN DEL ELEMENTO</string>
+    <string name="simbolo">Simbolo quimico:</string>
+    <string name="numero">Numero Atomico:</string>
+    <string name="peso">Peso Atomico:</string>
+    <string name="punto">Punto de Ebullición:</string>
+    <string name="densidad">Densidad</string>
+</resources>
